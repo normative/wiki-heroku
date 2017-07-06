@@ -1,1 +1,1 @@
-web: node wiki configure
+web: node server
