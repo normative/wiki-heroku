@@ -3,6 +3,7 @@ sessionSecret: 9A4HoFDjdvGCEsxTI8rByGOwfkw6jkPEatp
 title: Normative Employee Handbook
 host: http://handbook.normative.com
 db: $(MONGODB_URI)
+public: yes
 auth:
   google:
     enabled: true
