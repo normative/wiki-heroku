@@ -6,3 +6,5 @@ db: $(MONGODB_URI)
 auth:
   google:
     enabled: true
+    clientId: 142259933371-tekhs7qcequuesue6028kl31qfvl9mni.apps.googleusercontent.com
+    clientSecret: UvJX1n0SjrSYyDc9rFWHj-yG
