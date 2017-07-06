@@ -1,2 +1,4 @@
 port: $(PORT)
-sessionSecret: 9A4HoFDjdvGCEsxTI8rByGOwfkw6jkPE
+sessionSecret: 9A4HoFDjdvGCEsxTI8rByGOwfkw6jkPEatp
+title: Normative Employee Handbook
+host: http://handbook.normative.com
