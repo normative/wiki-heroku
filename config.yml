@@ -1,1 +1,2 @@
 port: $(PORT)
+sessionSecret: 9A4HoFDjdvGCEsxTI8rByGOwfkw6jkPE
